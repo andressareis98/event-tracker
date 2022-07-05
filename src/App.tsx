@@ -51,7 +51,6 @@ function App() {
           <Card>
             <ListaDeEventos
               aoFiltroAplicado={aplicarFiltro}
-              aoAlterarStatus={alterarStatusEvento}
             />
           </Card>
         </div>
