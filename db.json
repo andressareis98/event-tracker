@@ -1,0 +1,32 @@
+{
+  "eventos": [
+    {
+      "descricao": "Estudar React",
+      "inicio": "2022-01-15T09:00",
+      "fim": "2022-01-15T13:00",
+      "completo": false,
+      "id": 1642342747
+    },
+    {
+      "descricao": "Estudar Angular",
+      "inicio": "2022-01-17T09:00",
+      "fim": "2022-01-15T13:00",
+      "completo": false,
+      "id": 1642342748
+    },
+    {
+      "descricao": "Estudar Next",
+      "inicio": "2022-01-18T09:00",
+      "fim": "2022-01-15T13:00",
+      "completo": false,
+      "id": 1642342749
+    },
+    {
+      "descricao": "Estudar Recoil",
+      "inicio": "2022-01-16T09:00",
+      "fim": "2022-01-16T11:00",
+      "completo": false,
+      "id": 1642342959
+    }
+  ]
+}
